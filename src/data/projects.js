@@ -1,5 +1,5 @@
 
-import Dev_Folio from "../assets/Projects/Dev_Folio.png"
+import Dev_Folio from "../assets/Projects/Dev_Folio.PNG"
 
 import FAC from "../assets/Projects/FAC.png"
 
