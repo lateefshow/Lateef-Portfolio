@@ -12,7 +12,7 @@ import Palmpay from "../assets/Projects/Palmpay.PNG"
 import Kuda from "../assets/Projects/Kuda.PNG"
 import Mapoly from "../assets/Projects/Mapoly.PNG"
 import Snap from "../assets/Projects/snap.PNG"
-import Coolors from "../assets/Projects/coolors.PNG"
+//import Coolors from "../assets/Projects/coolors.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
 
 
@@ -61,7 +61,7 @@ const projects = [
       display: " hidden group-hover:flex",
     },
   },
-  {
+  /*{
     img: Coolors,
     name: "Coolor Clone",
     demo: "https://coolor.io",
@@ -73,7 +73,7 @@ const projects = [
       cover: "from-[#F8FAFC]",
       display: " hidden group-hover:flex",
     },
-  },
+  }, */
   {
     img: Snap,
     name: "Snap Clone",
