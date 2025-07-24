@@ -11,8 +11,8 @@ import Moove from "../assets/Projects/Moove.PNG"
 import Palmpay from "../assets/Projects/Palmpay.PNG"
 import Kuda from "../assets/Projects/Kuda.PNG"
 import Mapoly from "../assets/Projects/Mapoly.PNG"
-import snap from "../assets/Projects/snap.PNG"
-import coolor from "../assets/Projects/coolors.PNG"
+import Snap from "../assets/Projects/snap.PNG"
+import Coolors from "../assets/Projects/coolors.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
 
 
@@ -62,7 +62,7 @@ const projects = [
     },
   },
   {
-    img: coolor,
+    img: Coolors,
     name: "Coolor Clone",
     demo: "https://coolor.io",
     code: "https://github.com/lateefshow/Coolors-Show",
@@ -75,7 +75,7 @@ const projects = [
     },
   },
   {
-    img: snap,
+    img: Snap,
     name: "Snap Clone",
     demo: "#",
     code: "https://github.com/lateefshow/Snap-ReactJS",
