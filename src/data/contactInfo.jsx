@@ -5,26 +5,26 @@ const contactInfo = [
     {
         id: 1,
         name: "LinkedIn",
-        link: "https://www.linkedin.com/in/dhawal793/",
+        link: "https://www.linkedin.com/in/lateef-sonibare/",
         icon: <LinkedIn />,
     },
     {
         id: 2,
         name: "GitHub",
-        link: "https://github.com/dhawal-793",
+        link: "https://github.com/lateefshow",
         icon: <GitHub />,
     },
     {
         id: 3,
         name: "Mail",
-        link: "mailto:vijaydhawal9001@gmail.com",
+        link: "mailto:lateefshow21@gmail.com",
         icon: <GMail />,
     },
 
     {
         id: 4,
         name: "Telegram",
-        link: "https://t.me/DV_793",
+        link: "https://t.me/lateefshow",
         icon: <Telegram />,
     },
     {
