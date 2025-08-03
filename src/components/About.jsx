@@ -3,7 +3,8 @@ import React from "react";
 import AnimatedWrapper from "./ui/AnimatedWrapper";
 import { Download } from "./Icons";
 
-import resume from "../assets/resume.pdf";
+//import resume from "../assets/resume.pdf";
+import LATEEF_SONIBARE_Resume from "../assets/LATEEF_SONIBARE_Resume.pdf";
 //import profile from "../assets/profile.jpg";
 import profile from "../assets/lateef.PNG"
 import SectionHeading from "./SectionHeading";
@@ -101,13 +102,11 @@ const About = () => {
               </AnimatedWrapper>
             </div>
 
-            
-
             {/* Resume Download Button */}
             <AnimatedWrapper>
               <div className="py-5">
                 <a
-                  href={resume}
+                  href={LATEEF_SONIBARE_Resume}
                   target="_blank"
                   rel="noreferrer"
                   download={true}
