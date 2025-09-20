@@ -6,6 +6,7 @@ import AnimatedWrapper from "./ui/AnimatedWrapper";
 import { ArrowDown } from "./Icons";
 import Avatar from "../assets/Avatars/Avatar.PNG"; // Optional: Replace with your own image
 import contactInfo from "../data/contactInfo";
+import lateef_certificate from "../assets/lateef_certificate.PNG";
 
 const Home = () => {
   const interests = [
@@ -107,6 +108,26 @@ const Home = () => {
           </AnimatedWrapper>
         </div>
       </div>
+      <div className="absolute top-20 right-5 md:top-22 md:right-10 lg:top-30 lg:right-20 opacity-4">
+        <img
+          src={lateef_certificate}
+          alt="Lateef's Certificate"
+          width="200"
+          height="200"
+          loading="lazy"
+          title="Certificate"
+          className="rounded-lg rotate-[25deg] hover:rotate-0 transition-transform duration-1000 ease-in-out"
+        />
+      </div>
+
+      {/* <div className="mt-10">
+        <img
+          src={lateef_certificate}
+          alt="Lateef's Certificate"
+          width="700"
+          height="700"
+          />
+      </div> */}
     </div>
   );
 };

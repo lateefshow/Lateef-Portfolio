@@ -6,9 +6,10 @@ import { Download } from "./Icons";
 //import resume from "../assets/resume.pdf";
 import LATEEF_SONIBARE_Resume from "../assets/LATEEF_SONIBARE_Resume.pdf";
 //import profile from "../assets/profile.jpg";
-import profile from "../assets/lateef.PNG"
+import profile from "../assets/lateef2.PNG"
 import SectionHeading from "./SectionHeading";
 import techStack from "../data/techStack";
+import lateef_certificate from "../assets/lateef_certificate.PNG";
 
 const About = () => {
   return (

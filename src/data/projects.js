@@ -25,8 +25,8 @@ const projects = [
   {
     img: Piggyvest,
     name: "Piggyvest Clone",
-    demo: "https://https://piggyvest-full.vercel.app/",
-    code: "https://https://github.com/lateefshow/piggyvest-full",
+    demo: "https://piggyvest-full.vercel.app/",
+    code: "https://github.com/lateefshow/piggyvest-full",
     description:
       "PiggyVest is a Nigerian fintech app that enables users to save automatically, invest securely, track goals, and manage finances with ease via mobile or web platforms.",
     style: {
@@ -38,8 +38,8 @@ const projects = [
   {
     img: Moove,
     name: "Moove Clone",
-    demo: "https://https://github.com/lateefshow/Moove",
-    code: "https://https://github.com/lateefshow/Moove",
+    demo: "https://github.com/lateefshow/Moove",
+    code: "https://github.com/lateefshow/Moove",
     description:
       "Moove.io is a global mobility‑fintech empowering ride‑hail and delivery drivers through revenue‑based vehicle financing, credit scoring, and bundled services, enabling asset ownership and financial inclusion.",
     style: {
@@ -142,8 +142,8 @@ const projects = [
   {
     img: Dev_Folio,
     name: "Lateef-Portfolio",
-    demo: "https://dev-folio-793.vercel.app",
-    code: "https://github.com/dhawal-793/DevFolio",
+    demo: "https://lateef-sonibare.vercel.app",
+    code: "https://github.com/lateefshow/Lateef-Portfolio",
     description:
       "lateef-portfolio: Lateef's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
     style: {
@@ -155,8 +155,8 @@ const projects = [
   {
     img: Mapoly,
     name: "Mapoly Clone",
-    demo: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
-    code: "https://github.com/dhawal-793/Command-line-application-for-Task-Management",
+    demo: "#",
+    code: "#",
     description:
       "Moshood Abiola Polytechnic (MAPOLY), founded 1979 in Abeokuta, Nigeria, is a public tertiary institution offering diverse engineering, science, business, environmental, and communication programs.",
     style: {
@@ -165,6 +165,5 @@ const projects = [
       display: " hidden group-hover:flex",
     },
   },
-  
 ];
 export default projects;
