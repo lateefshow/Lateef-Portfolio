@@ -17,8 +17,8 @@ const App = () => {
       <Home />
       <Certificate /> {/* ✅ Display certificate below Home */}
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Contact />
       <Footer />
       <BackToTopButton />

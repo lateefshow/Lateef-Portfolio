@@ -14,6 +14,7 @@ import Mapoly from "../assets/Projects/Mapoly.PNG"
 import Snap from "../assets/Projects/snap.PNG"
 //import Coolors from "../assets/Projects/coolors.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
+import TradeLink from "../assets/Projects/TradeLink.PNG"
 
 
 
@@ -22,6 +23,19 @@ import Movie from "../assets/Projects/Movie.PNG"
 
 
 const projects = [
+  {
+    img: TradeLink,
+    name: "TradeLink",
+    demo: "https://mytradelink-frontend.onrender.com/",
+    code: "https://github.com/lateefshow/MyTradeLink",
+    description:
+      "contributed to building TradeLink — a digital marketplace connecting local vendors and artisans to buyers. Leading and collaborating on this project taught me how technology can truly solve community challenges.",
+    style: {
+      shadow: "shadow-[#3498AB]",
+      cover: "from-[#3498AB]",
+      display: " hidden group-hover:flex",
+    },
+  },
   {
     img: Piggyvest,
     name: "Piggyvest Clone",
