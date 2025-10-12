@@ -15,7 +15,7 @@ import Snap from "../assets/Projects/snap.PNG"
 //import Coolors from "../assets/Projects/coolors.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
 import TradeLink from "../assets/Projects/TradeLink.PNG"
-import TradeLink from "../assets/Projects/TradeHub.PNG";
+import TradeHub from "../assets/Projects/TradeHub.PNG";
 
 
 
