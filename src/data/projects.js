@@ -15,6 +15,7 @@ import Snap from "../assets/Projects/snap.PNG"
 //import Coolors from "../assets/Projects/coolors.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
 import TradeLink from "../assets/Projects/TradeLink.PNG"
+import TradeLink from "../assets/Projects/TradeHub.PNG";
 
 
 
@@ -23,6 +24,19 @@ import TradeLink from "../assets/Projects/TradeLink.PNG"
 
 
 const projects = [
+  {
+    img: TradeHub,
+    name: "TradeHub",
+    demo: "https://tradehub-rho.vercel.app/",
+    code: "https://github.com/lateefshow",
+    description:
+      "TradeHub is a full-featured Multi-Vendor Marketplace platform that connects buyers with multiple sellers in one place. Built with modern web technologies, it enables product listings, vendor dashboards, secure transactions, and responsive design to deliver a seamless e-commerce experience.",
+    style: {
+      shadow: "shadow-[#3498AB]",
+      cover: "from-[#3498AB]",
+      display: " hidden group-hover:flex",
+    },
+  },
   {
     img: TradeLink,
     name: "TradeLink",
