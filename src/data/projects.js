@@ -16,6 +16,7 @@ import Snap from "../assets/Projects/snap.PNG"
 import Movie from "../assets/Projects/Movie.PNG"
 import TradeLink from "../assets/Projects/TradeLink.PNG"
 import TradeHub from "../assets/Projects/TradeHub.PNG";
+import WhatsAppClone from "../assets/Projects/WhatsAppClone.PNG";
 
 
 
@@ -25,10 +26,23 @@ import TradeHub from "../assets/Projects/TradeHub.PNG";
 
 const projects = [
   {
+    img: WhatsAppClone,
+    name: "WhatsApp Clone",
+    demo: "https://whats-app-clone-phi.vercel.app/",
+    code: "https://github.com/lateefshow/WhatsApp-Clone",
+    description:
+      "WhatsApp remains one of the most widely used messaging platforms globally, and rebuilding core features from scratch gave me deeper insight into real-time systems, authentication flows, UI architecture, and full-stack deployment.",
+    style: {
+      shadow: "shadow-[green]",
+      cover: "from-[#3498AB]",
+      display: " hidden group-hover:flex",
+    },
+  },
+  {
     img: TradeHub,
     name: "TradeHub",
     demo: "https://tradehub-rho.vercel.app/",
-    code: "https://github.com/lateefshow",
+    code: "https://github.com/lateefshow/TradeHub",
     description:
       "TradeHub is a full-featured Multi-Vendor Marketplace platform that connects buyers with multiple sellers in one place. Built with modern web technologies, it enables product listings, vendor dashboards, secure transactions, and responsive design to deliver a seamless e-commerce experience.",
     style: {
